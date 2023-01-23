@@ -32,15 +32,6 @@ body {
   height: 100vh;
   background-color: var(--color-primary-cream);
 }
-/* 
-.attribution {
-  font-size: 1.1rem;
-  text-align: center;
-}
-
-.attribution a {
-  color: var(--color-attribution);
-} */
 
 .product {
   display: flex;
