@@ -30,6 +30,7 @@ Users should be able to:
 
 ### Links
 
+- Repository URL: [Repository](https://github.com/kkasperczyk/product-preview-card-component-main)
 - Solution URL: [Live demo](https://kkasperczyk.github.io/product-preview-card-component-main/)
 
 ## My process
